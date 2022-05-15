@@ -1,7 +1,7 @@
 {
-  "name": "@studbam/data-table",
+  "name": "@studb-am/data-table",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/studbAM"
+    "registry": "https://npm.pkg.github.com/studb-am"
   },
   "version": "0.0.1",
   "description": "A test to publish in github",
@@ -14,7 +14,7 @@
   "scripts": {
     "rollup": "rollup -c"
   },
-  "author": "studbAM",
+  "author": "studb-am",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
